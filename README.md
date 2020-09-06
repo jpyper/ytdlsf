@@ -1,3 +1,9 @@
-# ytdlsf
+# ytdlsf.sh
 
-<script id="asciicast-358032" src="https://asciinema.org/a/358032.js" async></script>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![The Unlicense][license-shield]][license-url]
+
+[![asciicast](https://asciinema.org/a/358032.svg)](https://asciinema.org/a/358032)
