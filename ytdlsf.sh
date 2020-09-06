@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 scriptversion="1.0"
-scriptlastedit="20200905 22:52 EST"
+scriptlastedit="20200905 22:58 EST"
 scriptauthor="John Pyper"
-scriptsite="https://github.com/jpyper/shell-scripts"
+scriptsite="https://github.com/jpyper/ytdlsf"
 
 
 #############
