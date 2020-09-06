@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
-scriptversion="1.0"
-scriptlastedit="20200905 23:04 EST"
+scriptversion="1.0.0.1"
+scriptlastedit="20200905 23:44 EST"
 scriptauthor="John Pyper"
 scriptsite="https://github.com/jpyper/ytdlsf"
 
@@ -203,7 +203,7 @@ fi
 ######################
 ### GET VIDEO FILE ###
 ######################
-youtube-dl "${s_ytdl_options}" \
+youtube-dl ${s_ytdl_options} \
 	--user-agent "${s_ytdl_useragent}" \
 	--output "${s_outdir}/${s_ytdl_outfile}" \
 	"${1}"
